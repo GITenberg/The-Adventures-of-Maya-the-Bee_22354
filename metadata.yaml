@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9680
     wikipedia: http://de.wikipedia.org/wiki/Waldemar_Bonsels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22354#The-Adventures-of-Maya-the-Bee
 gutenberg_issued: '2007-08-19'
 gutenberg_type: Text
 identifiers:
