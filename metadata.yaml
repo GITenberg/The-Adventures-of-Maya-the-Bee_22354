@@ -1,0 +1,48 @@
+_repo: The-Adventures-of-Maya-the-Bee_22354
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Boss, Homer
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '26442'
+    url: http://www.gutenberg.org/2009/agents/26442
+  translators:
+  - agent_name: Seltzer, Adele Szold
+    alias: Seltzer, Adele S.
+    birthdate: 1876
+    deathdate: 1940
+    gutenberg_agent_id: '7245'
+    url: http://www.gutenberg.org/2009/agents/7245
+  - agent_name: Guiterman, Arthur
+    birthdate: 1871
+    deathdate: 1943
+    gutenberg_agent_id: '26441'
+    url: http://www.gutenberg.org/2009/agents/26441
+covers:
+- cover_type: archival
+  image_path: 22354-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bonsels, Waldemar
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '9680'
+    url: http://www.gutenberg.org/2009/agents/9680
+    wikipedia: http://de.wikipedia.org/wiki/Waldemar_Bonsels
+description: ''
+gutenberg_issued: '2007-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22354'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcc 'PZ'
+- !lcsh 'Bees -- Folklore'
+- !lcsh 'Children''s literature'
+title: The Adventures of Maya the Bee
+url: http://www.gutenberg.org/ebooks/22354
